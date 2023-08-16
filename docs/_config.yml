@@ -1,0 +1,12 @@
+title: Linuxmetel's Mathematical Papers
+baseurl: "/math"
+url: "https://linuxmetel.github.io"
+twitter_username: linuxmetel
+github_username: linuxmetel
+
+# Build settings
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - github-pages
